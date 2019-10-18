@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/27e7b57c-ec19-43e8-b03c-d2e81f69dc2e/resourceGroups/bpmonitor/providers/Microsoft.Web/sites/cpdas-hello-world",
+    "appService.deploySubpath": ""
+}
