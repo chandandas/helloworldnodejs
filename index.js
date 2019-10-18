@@ -13,7 +13,7 @@ appInsights.start();
 app.get('/hello',async (req,res)=>{
     try{
         console.log('Hello');
-        res.json('Hello');
+        res.json('Hello Chandan');
     }catch(e){
         console.log(e);
         res.sendStatus(500);
